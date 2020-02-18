@@ -1,16 +1,21 @@
-#Project Title
+# Project Title
+
 TIC TAC TOE Using Python & Tkinter.
 
-#Getting Started
+## Getting Started
+
 Download the repository files and execute TicTacToe.py file to run the game.
 
-#Prerequisites
+### Prerequisites
+
 You need Python 3.6 or more to run this game.
 
-#Built With
-Python - The game is Build using the language.
-Tkinter - It is used for making GUI.
+## Built With
 
-#Authors
-Anurag Srivastava
-Social Media - @imsrvstv
+* Python - The game is Build using the language.
+* Tkinter - It is used for making GUI.
+
+## Authors
+
+* **Anurag Srivastava**
+* Social Media - **@imsrvstv**
