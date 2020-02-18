@@ -17,5 +17,4 @@ You need Python 3.6 or more to run this game.
 
 ## Authors
 
-* **Anurag Srivastava**
-* Social Media - **@imsrvstv**
+* **Anurag Srivastava** - Social Media : **@imsrvstv**
