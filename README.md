@@ -1,6 +1,6 @@
-# Project Title
+# TIC TAC TOE
 
-TIC TAC TOE Using Python & Tkinter.
+Using Python & Tkinter.
 
 ## Getting Started
 
